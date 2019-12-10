@@ -29,8 +29,10 @@ nav li a {
 /* header */
 .header {
     box-shadow: 0 4px 2px -2px #cccccc;
-    height: 81px;
+    height: 80px;
     background: #ffffff;
+}
+
 }
 
 h1 {
@@ -47,9 +49,9 @@ h1 {
     float: left;
     background: teal;
     color: #eee;
-    padding-left: 60px;
-    padding-right: 55px;
-    margin-left: -34px;
+    padding-left: 56px;
+    padding-right: 56px;
+    margin-left: -33px;
 }
 /* content */
 .content {
