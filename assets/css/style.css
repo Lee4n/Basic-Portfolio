@@ -59,12 +59,12 @@ nav li a {
 
 p {
     font-size: 25px;
+    line-height: 37px;
     color: #777777;
 }
 /* footer */
 #footer  {
     height: 50px;
-    margin-top: 35px;
     background: #666666;
     text-align: center;
 }
