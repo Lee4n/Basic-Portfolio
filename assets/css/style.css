@@ -24,12 +24,17 @@ nav li a {
     text-decoration: none;
     color: #777777;
     font-size: 20px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 /* header */
 .header {
     box-shadow: 0 4px 2px -2px #cccccc;
     height: 81px;
     background: #ffffff;
+}
+
+h1 {
+    font-family: 'Georgia', Times, "Times New Roman", serif;
 }
 
 .header-wrapper {
@@ -61,6 +66,7 @@ p {
     font-size: 25px;
     line-height: 37px;
     color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 /* footer */
 #footer  {
@@ -70,4 +76,5 @@ p {
     box-shadow: 0 -6px teal;
     color: #ffffff;
     font-size: 12px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
