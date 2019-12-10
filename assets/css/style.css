@@ -67,4 +67,7 @@ p {
     height: 50px;
     background: #666666;
     text-align: center;
+    box-shadow: 0 -6px teal;
+    color: #ffffff;
+    font-size: 12px;
 }
