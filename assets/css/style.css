@@ -1,8 +1,10 @@
-html, body {
+html,
+body {
     padding: 0;
     margin: 0;
     background-image: url("../images/beige-tiles.png");
 }
+
 /* navigation */
 nav {
     float: right;
@@ -26,13 +28,12 @@ nav li a {
     font-size: 20px;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
+
 /* header */
 .header {
     box-shadow: 0 4px 2px -2px #cccccc;
     height: 80px;
     background: #ffffff;
-}
-
 }
 
 h1 {
@@ -49,10 +50,11 @@ h1 {
     float: left;
     background: teal;
     color: #eee;
-    padding-left: 56px;
-    padding-right: 56px;
+    padding-left: 45px;
+    padding-right: 45px;
     margin-left: -33px;
 }
+
 /* content */
 .content {
     width: 960px;
@@ -70,8 +72,9 @@ p {
     color: #777777;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
+
 /* footer */
-#footer  {
+#footer {
     height: 50px;
     background: #666666;
     text-align: center;
