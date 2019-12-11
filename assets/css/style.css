@@ -85,6 +85,10 @@ p {
     float: left;
 }
 
+input[type=text], textarea {
+    width: 100%;
+}
+
 /* footer */
 #footer {
     height: 50px;
