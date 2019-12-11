@@ -73,6 +73,18 @@ p {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
+.image-column1 {
+    position: relative;
+    width: 250px;
+    float: left;
+}
+
+.image-column2 {
+    position: relative;
+    width: 250px;
+    float: left;
+}
+
 /* footer */
 #footer {
     height: 50px;
