@@ -85,6 +85,7 @@ p {
     float: left;
 }
 
+/* Contact Form */
 input[type=text], textarea {
     width: 100%;
     border: 1px solid #dddddd;
