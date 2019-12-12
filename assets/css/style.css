@@ -25,7 +25,7 @@ nav li {
 nav li a {
     text-decoration: none;
     color: #777777;
-    font-size: 20px;
+    font-size: 15px;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
@@ -67,7 +67,7 @@ h1 {
 }
 
 p {
-    font-size: 25px;
+    font-size: 16px;
     line-height: 37px;
     color: #777777;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
@@ -76,6 +76,8 @@ p {
 .container {
     position: relative;
     width: 38%;
+    height: 250px;
+    float: left;
 }
 
 .container img {
@@ -85,18 +87,16 @@ p {
 
 .container .btn {
     position: absolute;
-    top: 64%;
-    left: 39%;
-    transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
+    top: 145px;
+    left: 0px;
     background: teal;
     color: white;
     font-size: 16px;
-    padding: 12px 128px;
-    margin-left: 8px;
+    padding: 12px;
     border: none;
     text-align: center;
-
+    width: 300px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 /* Contact Form */
@@ -108,6 +108,16 @@ textarea {
     margin-top: 6px;
     margin-bottom: 16px;
     resize: vertical;
+    padding: 10px;
+}
+
+.submit-btn {
+    background: teal;
+    border: none;
+    width: 100px;
+    padding: 10px;
+    color: white;
+
 }
 
 label {
@@ -124,4 +134,7 @@ label {
     color: #ffffff;
     font-size: 12px;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
 }
