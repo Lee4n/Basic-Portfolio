@@ -67,6 +67,7 @@ h1 {
 }
 
 p {
+    margin-top: 22px;
     font-size: 16px;
     line-height: 37px;
     color: #777777;
@@ -87,12 +88,12 @@ p {
 
 .container .btn {
     position: absolute;
-    top: 145px;
+    top: 135px;
     left: 0px;
     background: teal;
     color: white;
     font-size: 16px;
-    padding: 12px;
+    padding: 18px;
     border: none;
     text-align: center;
     width: 300px;
