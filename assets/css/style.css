@@ -76,13 +76,13 @@ p {
 
 .container {
     position: relative;
-    width: 38%;
+    width: 34%;
     height: 250px;
     float: left;
 }
 
 .container img {
-    width: 300px;
+    width: 250px;
     height: 200px;
 }
 
@@ -96,7 +96,7 @@ p {
     padding: 18px;
     border: none;
     text-align: center;
-    width: 300px;
+    width: 250px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
